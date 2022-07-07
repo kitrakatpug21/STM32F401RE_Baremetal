@@ -1,0 +1,2 @@
+../Src/delay.c:20:6:delay_ms	24	static
+../Src/delay.c:42:6:delay_us	24	static
