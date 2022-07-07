@@ -1,0 +1,5 @@
+../Src/uart2.c:12:6:uart2_init_transmitter	4	static
+../Src/uart2.c:38:6:uart2_init_receiver	4	static
+../Src/uart2.c:64:6:uart2_transmit	16	static
+../Src/uart2.c:72:15:uart2_receive	4	static
+../Src/uart2.c:80:5:__io_putchar	16	static
