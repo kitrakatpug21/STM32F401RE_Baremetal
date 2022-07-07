@@ -1,0 +1,3 @@
+../Src/delay.c:21:6:delay_ms	24	static
+../Src/delay.c:43:6:delay_us	24	static
+../Src/delay.c:64:6:Systick_Interrupt_Init	4	static
