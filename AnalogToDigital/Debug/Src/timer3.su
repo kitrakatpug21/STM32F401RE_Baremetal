@@ -1,0 +1,2 @@
+../Src/timer3.c:9:6:timer3_ctc_init	4	static
+../Src/timer3.c:41:6:timer3_inputCapture_init	4	static
