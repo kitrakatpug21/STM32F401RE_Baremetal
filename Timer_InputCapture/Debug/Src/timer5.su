@@ -1,0 +1,2 @@
+../Src/timer5.c:10:6:timer5_ctc_init	4	static
+../Src/timer5.c:42:6:timer5_pwm_init	4	static
